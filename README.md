@@ -63,13 +63,16 @@ The app uses **Redux Toolkit** for state management. Tasks are stored in the Red
 ![Home Page](./public/login.png)
 
 ### 1. Tablet Responsive
-![Home Page](./public/mobile.png)
+![Mobile Responsive](./public/mobile.png)
 
 ### 2. Add Task
 ![Priority Tasks](./public/priorityTasks.png)
 
 ### 3. Mark Task as Completed
 ![Completed Task](./public/taskDisplay.png)
+
+### 4. Tablet Responsive
+![Tablet Responsive](./public/tablet.png)
 
 ## 💡 Future Improvements
 - 🔥 User authentication with JWT
