@@ -23,12 +23,12 @@ The To-Do App is a task management tool built using React.js and Redux Toolkit. 
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/YashPalav26/TodoReact.git
 ```
 
 2. **Navigate to the Project Directory**
 ```bash
-cd todo-app
+cd TodoReact
 ```
 
 3. **Install Dependencies**
@@ -65,7 +65,7 @@ The app uses **Redux Toolkit** for state management. Tasks are stored in the Red
 - 📊 Task categories and filters
 
 ## 📬 Contact
-If you have any questions or suggestions, feel free to contact me at (mailto:yashpalav100@gmail.com).
+If you have any questions or suggestions, feel free to contact me at (mailto: yashpalav100@gmail.com).
 
 ---
 
