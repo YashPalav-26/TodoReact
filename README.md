@@ -1,12 +1,26 @@
-# React + Vite
+# To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive To-Do App built using **React.js** and **Redux Toolkit** to manage daily tasks efficiently.
 
-Currently, two official plugins are available:
+## 📜 Project Description
+The To-Do App is a task management tool built using React.js and Redux Toolkit. It allows users to add, edit, delete, and mark tasks as completed. Tasks are saved in Local Storage for data persistence. The app offers a clean UI, smooth functionality, and easy task management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- ✅ Add new tasks
+- ✅ Delete tasks
+- ✅ Mark tasks as completed
+- ✅ Persist tasks using Local Storage
+- ✅ User authentication 
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- **React.js** - Frontend library
+- **Redux Toolkit** - State management
+- **Axios** - HTTP requests
+- **CSS (Tailwind CSS)** - Styling
+- **Local Storage** - Data persistence
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Setup Instructions
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/YashPalav-26/TodoReact.git
