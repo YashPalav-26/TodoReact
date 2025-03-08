@@ -24,30 +24,30 @@ The To-Do App is a task management tool built using React.js and Redux Toolkit. 
 
 1. **Clone the Repository**
 
-bash
+```bash
 git clone https://github.com/YashPalav26/TodoReact.git
-
+```
 
 
 2. **Navigate to the Project Directory**
 
-bash
+```bash
 cd TodoReact
-
+```
 
 
 3. **Install Dependencies**
 
-bash
+```bash
 npm install
-
+```
 
 
 4. **Start the Development Server**
 
-bash
+```bash
 npm start
-
+```
 
 
 The app will run on [http://localhost:3000](http://localhost:3000).
