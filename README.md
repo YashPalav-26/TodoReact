@@ -66,7 +66,7 @@ The app uses **Redux Toolkit** for state management. Tasks are stored in the Red
 ![Mobile Responsive](./public/mobile.png)
 
 ### 3. Add Task
-![Priority Tasks](./public/taskDisplay.png)
+![Tasks](./public/tasksDisplay.png)
 
 ### 4. Mark Task as Completed
 ![Completed Task](./public/priorityTasks.png)
